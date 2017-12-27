@@ -1,0 +1,14 @@
+{
+    "name": "maful/tuttest_bot",
+    "description": "Test Bot Telegram using PHP",
+    "authors": [
+        {
+            "name": "Maful Prayoga Arnandi",
+            "email": "mafulprayoga@gmail.com"
+        }
+    ],
+    "require": {
+        "telegram-bot/api": "^2.3",
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}

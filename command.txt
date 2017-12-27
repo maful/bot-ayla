@@ -1,0 +1,4 @@
+ping - Check bot
+lampon - Turn on a lamp
+lampoff - Turn off a lamp
+status - Check status lamp
